@@ -91,6 +91,12 @@ main {
 			max-width: 70%;
 			margin: 20px 0;
 			border-radius: 10px;
+
+			transition: 0.2s border-radius;
+
+			&:hover {
+				border-radius: 0;
+			}
 		}
 
 		hr {
@@ -134,9 +140,8 @@ main {
 
 		table {
 			border-collapse: collapse;
-			width: auto; // Zmiana z 100% na auto
-			margin: 20px auto; // Wyśrodkowanie tabeli
-			max-width: 90%; // Ograniczenie szerokości tabeli
+			width: auto;
+			max-width: 90%;
 	
 			tr,
 			td,
