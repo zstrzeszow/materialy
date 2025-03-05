@@ -1,0 +1,40 @@
+[
+  {
+    "nazwa": "Linux / Ubuntu",
+    "lekcje": [
+      {
+        "tytul": "Instalacja Apache",
+        "plik": "apache.md"
+      },
+      {
+        "tytul": "Instalacja MySQL",
+        "plik": "mysql.md"
+      },
+      {
+        "tytul": "Podstawy PHP",
+        "plik": "php.md"
+      }  
+    ]
+  },
+  {
+    "nazwa": "Pisanie stron",
+    "lekcje": [
+      {
+        "tytul": "Instalacja Apache",
+        "plik": "apache.md"
+      },
+      {
+        "tytul": "Instalacja MySQL",
+        "plik": "mysql.md"
+      },
+      {
+        "tytul": "Podstawy PHP",
+        "plik": "php.md"
+      },
+      {
+        "tytul": "Podstawy PHP",
+        "plik": "php.md"
+      }  
+    ]
+  }
+]

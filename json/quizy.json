@@ -1,0 +1,14 @@
+{
+  "apache.md": [
+    {
+      "pytanie": "Jakie polecenie instaluje Apache na Ubuntu?",
+      "odpowiedzi": ["sudo apt install apache2", "yum install apache", "dnf install apache"],
+      "poprawna": 0
+    },
+    {
+      "pytanie": "Pod jakim adresem sprawdzisz działanie Apache?",
+      "odpowiedzi": ["http://localhost", "https://apache.org", "http://127.0.1.1"],
+      "poprawna": 0
+    }
+  ]
+}
